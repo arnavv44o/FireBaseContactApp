@@ -4,4 +4,7 @@
 
 body {
   background-color: #323334;
+    background-image: url("1670.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
